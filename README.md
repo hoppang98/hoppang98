@@ -1,6 +1,5 @@
 <p>
-  👋&nbsp; Hi there! I'm <b>I'm a backend developer.</b> 🚀<br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
+  👋&nbsp; Hi there! <b>I'm a backend developer.</b> 🚀<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
